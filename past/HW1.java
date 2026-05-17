@@ -1,9 +1,10 @@
+package past;
 // 22313529 이승민
 
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class HW1_1 {
+public class HW1 {
     public static void main(String[] args) {
         Solution1 S = new Solution1();
         int[] numbers = {5, 0, 2, 7};
